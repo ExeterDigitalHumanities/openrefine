@@ -1,7 +1,9 @@
 # OpenRefine
 Data, notes and slide deck for use with the Digital Humanities Lab's course on OpenRefine
 
-Installation notes for OpenRefine: [InstallingOpenRefine.pdf](https://github.com/ExeterDigitalHumanities/openrefine/blob/main/InstallingOpenRefine.pdf)
+OpenRefine can be downloaded from: https://openrefine.org/download.html
+
+More detailed notes for installing OpenRefine: [InstallingOpenRefine.pdf](https://github.com/ExeterDigitalHumanities/openrefine/blob/main/InstallingOpenRefine.pdf)
 
 ### Charles Woolf Collection
 This is an export from the CALM catalogue management system, and holds metadata of the collection also displayed on JSTOR at: 
