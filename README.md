@@ -9,4 +9,4 @@ The full dataset, exported directly from the catalogue, shows a number of featur
 
 Click on the file above labelled [CharlesWoolfSlideCollection_CALMexport.xlsx](https://github.com/ExeterDigitalHumanities/openrefine/blob/main/CharlesWoolfSlideCollection_CALMexport.xlsx) to download the data.
 
-The images referred to in this metadata were catalogued by the team at Falmouth Archives, and are copyright the slides themselves were transferred from the Estate of Charles Woolf to the Institute of Cornish Studies in 2016. Metadata is reproduced with permission.
+The images referred to in this metadata were catalogued by the team at Falmouth Archives, and are copyright. The slides themselves were transferred from the Estate of Charles Woolf to the Institute of Cornish Studies in 2016. Metadata is reproduced with permission.
