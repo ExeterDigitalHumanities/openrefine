@@ -1,5 +1,5 @@
 # OpenRefine
-Data for use with the Digital Humanities Lab's course on OpenRefine
+Data, notes and slide deck for use with the Digital Humanities Lab's course on OpenRefine
 
 ### Charles Woolf Collection
 This is an export from the CALM catalogue management system, and holds metadata of the collection also displayed on JSTOR at: 
