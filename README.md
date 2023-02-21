@@ -3,7 +3,7 @@ Data, notes and slide deck for use with the Digital Humanities Lab's course on O
 
 OpenRefine can be downloaded from: https://openrefine.org/download.html
 
-The Library Carpentry lesson, which we will refer to throughout the workshop, can be found at:
+The Library Carpentry lesson, which we will refer to throughout the workshop, and provides a more in-depth tutorial on OpenRefine, can be found at:
 https://librarycarpentry.org/lc-open-refine/
 
 Note that the Library Carpentry lessons use different example data, which is linked above.
