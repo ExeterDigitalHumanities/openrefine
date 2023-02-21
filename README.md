@@ -6,6 +6,8 @@ OpenRefine can be downloaded from: https://openrefine.org/download.html
 The Library Carpentry lesson, which we will refer to throughout the workshop, can be found at:
 https://librarycarpentry.org/lc-open-refine/
 
+Note that the Library Carpentry lessons use different example data, which is linked above.
+
 More detailed notes and 'gotchas' for installing OpenRefine: [InstallingOpenRefine.pdf](https://github.com/ExeterDigitalHumanities/openrefine/blob/main/InstallingOpenRefine.pdf), and see also the 'Setup' section in the Library Carpentry notes.
 
 ## Charles Woolf Collection
