@@ -10,7 +10,7 @@ Note that the Library Carpentry lessons use different example data, which is lin
 
 More detailed notes and 'gotchas' for *installing* OpenRefine: [InstallingOpenRefine.pdf](https://github.com/ExeterDigitalHumanities/openrefine/blob/main/InstallingOpenRefine.pdf), and see also the 'Setup' section in the Library Carpentry notes.
 
-The actual notes from the workshop can be found at: [Text II - OpenRefine.pdf](https://github.com/ExeterDigitalHumanities/openrefine/blob/main/Text%20II%20-%20OpenRefine.pdf).
+The actual notes from the workshop can be found at: [Text II - OpenRefine.pdf](https://github.com/ExeterDigitalHumanities/openrefine/blob/main/Text%20II%20-%20OpenRefine.pdf). These will be uploaded soon after the workshop each time it runs.
 
 ## Charles Woolf Collection
 This is an export from the CALM catalogue management system, and holds metadata of the collection also displayed on JSTOR at: 
